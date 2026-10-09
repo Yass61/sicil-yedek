@@ -1,0 +1,322 @@
+{
+ "H1": [
+  {
+   "parca": "IMZA-H1",
+   "sure_sn": 60.02,
+   "on_kontrol": {
+    "gecti": true,
+    "sebep": [],
+    "ilk_sn_dbfs": -14.9,
+    "ortanca_dbfs": -12.7,
+    "en_uzun_bosluk_sn": 0.4
+   },
+   "izgara": {
+    "bpm": 95.1,
+    "faz_sn": 0.39,
+    "olcu_sn": 2.5238
+   },
+   "dinleme": {
+    "tam": [
+     "IMZA-H1_tam_16LUFS.mp3",
+     -16.0,
+     -4.5
+    ]
+   },
+   "kesitler": {
+    "30": {
+     "bas_sn": 0.39,
+     "sure_sn": 30.0,
+     "puan": -3.65,
+     "enerji_db": -12.8,
+     "melodi_db": -6.4,
+     "bosluk_payi": 0.002,
+     "giris_db": 12.0,
+     "dosya": "IMZA-H1_kesit30_16LUFS.mp3",
+     "lufs": -16.0,
+     "tepe": -4.5
+    },
+    "6": {
+     "bas_sn": 0.39,
+     "sure_sn": 6.0,
+     "puan": 1.83,
+     "enerji_db": -13.2,
+     "melodi_db": -6.8,
+     "bosluk_payi": 0.008,
+     "giris_db": 12.0,
+     "dosya": "IMZA-H1_kesit6_16LUFS.mp3",
+     "lufs": -16.2,
+     "tepe": -5.1
+    }
+   }
+  }
+ ],
+ "H2": [
+  {
+   "parca": "IMZA-H2",
+   "sure_sn": 60.02,
+   "on_kontrol": {
+    "gecti": true,
+    "sebep": [],
+    "ilk_sn_dbfs": -10.8,
+    "ortanca_dbfs": -14.2,
+    "en_uzun_bosluk_sn": 0.0
+   },
+   "izgara": {
+    "bpm": 108.0,
+    "faz_sn": 0.02,
+    "olcu_sn": 2.2226
+   },
+   "dinleme": {
+    "tam": [
+     "IMZA-H2_tam_16LUFS.mp3",
+     -16.0,
+     -2.4
+    ]
+   },
+   "kesitler": {
+    "30": {
+     "bas_sn": 0.02,
+     "sure_sn": 30.0,
+     "puan": -7.6,
+     "enerji_db": -14.0,
+     "melodi_db": -7.2,
+     "bosluk_payi": 0.0,
+     "giris_db": 6.0,
+     "dosya": "IMZA-H2_kesit30_16LUFS.mp3",
+     "lufs": -16.0,
+     "tepe": -2.4
+    },
+    "6": {
+     "bas_sn": 0.02,
+     "sure_sn": 6.0,
+     "puan": -5.51,
+     "enerji_db": -13.3,
+     "melodi_db": -9.7,
+     "bosluk_payi": 0.0,
+     "giris_db": 6.0,
+     "dosya": "IMZA-H2_kesit6_16LUFS.mp3",
+     "lufs": -16.2,
+     "tepe": -3.3
+    }
+   }
+  }
+ ],
+ "H3": [
+  {
+   "parca": "IMZA-H3",
+   "sure_sn": 60.02,
+   "on_kontrol": {
+    "gecti": true,
+    "sebep": [],
+    "ilk_sn_dbfs": -10.6,
+    "ortanca_dbfs": -14.5,
+    "en_uzun_bosluk_sn": 0.85
+   },
+   "izgara": {
+    "bpm": 103.6,
+    "faz_sn": 0.45,
+    "olcu_sn": 2.3165
+   },
+   "dinleme": {
+    "tam": [
+     "IMZA-H3_tam_16LUFS.mp3",
+     -16.0,
+     -2.6
+    ]
+   },
+   "kesitler": {
+    "30": {
+     "bas_sn": 9.716,
+     "sure_sn": 30.0,
+     "puan": -12.9,
+     "enerji_db": -13.7,
+     "melodi_db": -16.2,
+     "bosluk_payi": 0.0,
+     "giris_db": 4.1,
+     "dosya": "IMZA-H3_kesit30_16LUFS.mp3",
+     "lufs": -16.0,
+     "tepe": -2.6
+    },
+    "6": {
+     "bas_sn": 9.716,
+     "sure_sn": 6.0,
+     "puan": -10.43,
+     "enerji_db": -13.4,
+     "melodi_db": -15.5,
+     "bosluk_payi": 0.0,
+     "giris_db": 4.1,
+     "dosya": "IMZA-H3_kesit6_16LUFS.mp3",
+     "lufs": -16.0,
+     "tepe": -3.8
+    }
+   }
+  }
+ ],
+ "H4": [
+  {
+   "parca": "IMZA-H4",
+   "sure_sn": 60.02,
+   "on_kontrol": {
+    "gecti": false,
+    "sebep": [
+     "boş giriş: ilk 1 sn -57.5 dBFS (ortanca -17.4)",
+     "boşluk: 0.00-1.85 sn (1.85 sn)"
+    ],
+    "ilk_sn_dbfs": -57.5,
+    "ortanca_dbfs": -17.4,
+    "en_uzun_bosluk_sn": 1.85
+   }
+  },
+  {
+   "parca": "IMZA-H4-2",
+   "sure_sn": 60.02,
+   "on_kontrol": {
+    "gecti": true,
+    "sebep": [],
+    "ilk_sn_dbfs": -12.9,
+    "ortanca_dbfs": -11.4,
+    "en_uzun_bosluk_sn": 0.0
+   },
+   "izgara": {
+    "bpm": 107.8,
+    "faz_sn": 0.49,
+    "olcu_sn": 2.2274
+   },
+   "dinleme": {
+    "tam": [
+     "IMZA-H4-2_tam_16LUFS.mp3",
+     -16.2,
+     -5.0
+    ]
+   },
+   "kesitler": {
+    "30": {
+     "bas_sn": 27.219,
+     "sure_sn": 30.0,
+     "puan": -6.14,
+     "enerji_db": -8.3,
+     "melodi_db": -4.9,
+     "bosluk_payi": 0.0,
+     "giris_db": 0.9,
+     "dosya": "IMZA-H4-2_kesit30_16LUFS.mp3",
+     "lufs": -16.2,
+     "tepe": -6.2
+    },
+    "6": {
+     "bas_sn": 47.265,
+     "sure_sn": 6.0,
+     "puan": -4.39,
+     "enerji_db": -7.1,
+     "melodi_db": -4.7,
+     "bosluk_payi": 0.0,
+     "giris_db": 1.5,
+     "dosya": "IMZA-H4-2_kesit6_16LUFS.mp3",
+     "lufs": -16.2,
+     "tepe": -7.2
+    }
+   }
+  }
+ ],
+ "H5": [
+  {
+   "parca": "IMZA-H5",
+   "sure_sn": 60.02,
+   "on_kontrol": {
+    "gecti": true,
+    "sebep": [],
+    "ilk_sn_dbfs": -17.2,
+    "ortanca_dbfs": -20.2,
+    "en_uzun_bosluk_sn": 0.0
+   },
+   "izgara": {
+    "bpm": 100.0,
+    "faz_sn": 0.04,
+    "olcu_sn": 2.3992
+   },
+   "dinleme": {
+    "tam": [
+     "IMZA-H5_tam_16LUFS.mp3",
+     -16.1,
+     -1.6
+    ]
+   },
+   "kesitler": {
+    "30": {
+     "bas_sn": 19.234,
+     "sure_sn": 30.0,
+     "puan": -14.91,
+     "enerji_db": -20.0,
+     "melodi_db": -18.2,
+     "bosluk_payi": 0.0,
+     "giris_db": 8.3,
+     "dosya": "IMZA-H5_kesit30_16LUFS.mp3",
+     "lufs": -16.1,
+     "tepe": -1.6
+    },
+    "6": {
+     "bas_sn": 19.234,
+     "sure_sn": 6.0,
+     "puan": -11.15,
+     "enerji_db": -20.3,
+     "melodi_db": -18.6,
+     "bosluk_payi": 0.0,
+     "giris_db": 8.3,
+     "dosya": "IMZA-H5_kesit6_16LUFS.mp3",
+     "lufs": -16.1,
+     "tepe": -1.7
+    }
+   }
+  }
+ ],
+ "H6": [
+  {
+   "parca": "IMZA-H6",
+   "sure_sn": 60.02,
+   "on_kontrol": {
+    "gecti": true,
+    "sebep": [],
+    "ilk_sn_dbfs": -14.9,
+    "ortanca_dbfs": -15.8,
+    "en_uzun_bosluk_sn": 0.55
+   },
+   "izgara": {
+    "bpm": 103.7,
+    "faz_sn": 0.0,
+    "olcu_sn": 2.3135
+   },
+   "dinleme": {
+    "tam": [
+     "IMZA-H6_tam_16LUFS.mp3",
+     -16.0,
+     -2.6
+    ]
+   },
+   "kesitler": {
+    "30": {
+     "bas_sn": 23.135,
+     "sure_sn": 30.0,
+     "puan": -4.34,
+     "enerji_db": -15.3,
+     "melodi_db": -3.1,
+     "bosluk_payi": 0.0,
+     "giris_db": 9.7,
+     "dosya": "IMZA-H6_kesit30_16LUFS.mp3",
+     "lufs": -16.2,
+     "tepe": -2.7
+    },
+    "6": {
+     "bas_sn": 23.135,
+     "sure_sn": 6.0,
+     "puan": 0.72,
+     "enerji_db": -15.1,
+     "melodi_db": -2.9,
+     "bosluk_payi": 0.0,
+     "giris_db": 9.7,
+     "dosya": "IMZA-H6_kesit6_16LUFS.mp3",
+     "lufs": -16.2,
+     "tepe": -3.1
+    }
+   }
+  }
+ ]
+}

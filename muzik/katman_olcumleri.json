@@ -1,0 +1,26 @@
+[
+ {
+  "parca": "IMZA-G1",
+  "bpm": 112.9,
+  "ilk_vurus": 0.02,
+  "durma": [
+   null,
+   null
+  ],
+  "durma_db": null,
+  "son_vurus": 28.5,
+  "nefes_dongusu": 115
+ },
+ {
+  "parca": "IMZA-G3",
+  "bpm": 103.5,
+  "ilk_vurus": 0.0,
+  "durma": [
+   null,
+   null
+  ],
+  "durma_db": null,
+  "son_vurus": 24.7,
+  "nefes_dongusu": 105
+ }
+]

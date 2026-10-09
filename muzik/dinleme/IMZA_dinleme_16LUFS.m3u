@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:30,IMZA-G1
+IMZA-G1_16LUFS.mp3
+#EXTINF:6,IMZA-G1 jenerik kesiti
+IMZA-G1_jenerik6_16LUFS.mp3
+#EXTINF:30,IMZA-G2
+IMZA-G2_16LUFS.mp3
+#EXTINF:6,IMZA-G2 jenerik kesiti
+IMZA-G2_jenerik6_16LUFS.mp3
+#EXTINF:30,IMZA-G3
+IMZA-G3_16LUFS.mp3
+#EXTINF:6,IMZA-G3 jenerik kesiti
+IMZA-G3_jenerik6_16LUFS.mp3
+#EXTINF:30,IMZA-G4
+IMZA-G4_16LUFS.mp3
+#EXTINF:6,IMZA-G4 jenerik kesiti
+IMZA-G4_jenerik6_16LUFS.mp3
+#EXTINF:30,IMZA-G5
+IMZA-G5_16LUFS.mp3
+#EXTINF:6,IMZA-G5 jenerik kesiti
+IMZA-G5_jenerik6_16LUFS.mp3
+#EXTINF:30,IMZA-G6
+IMZA-G6_16LUFS.mp3
+#EXTINF:6,IMZA-G6 jenerik kesiti
+IMZA-G6_jenerik6_16LUFS.mp3
+#EXTINF:30,IMZA-G1 a_yalniz_muzik
+IMZA-G1_a_yalniz_muzik_16LUFS.mp3
+#EXTINF:30,IMZA-G1 b_arsiv
+IMZA-G1_b_arsiv_16LUFS.mp3
+#EXTINF:30,IMZA-G1 c_arsiv_nefes
+IMZA-G1_c_arsiv_nefes_16LUFS.mp3
+#EXTINF:30,IMZA-G3 a_yalniz_muzik
+IMZA-G3_a_yalniz_muzik_16LUFS.mp3
+#EXTINF:30,IMZA-G3 b_arsiv
+IMZA-G3_b_arsiv_16LUFS.mp3
+#EXTINF:30,IMZA-G3 c_arsiv_nefes
+IMZA-G3_c_arsiv_nefes_16LUFS.mp3

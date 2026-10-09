@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:6,IMZA-H1 — en güçlü 6 sn (ölçü başı 0.39 sn)
+IMZA-H1_kesit6_16LUFS.mp3
+#EXTINF:30,IMZA-H1 — en güçlü 30 sn (ölçü başı 0.39 sn)
+IMZA-H1_kesit30_16LUFS.mp3
+#EXTINF:60,IMZA-H1 — tam hâl
+IMZA-H1_tam_16LUFS.mp3
+#EXTINF:6,IMZA-H2 — en güçlü 6 sn (ölçü başı 0.02 sn)
+IMZA-H2_kesit6_16LUFS.mp3
+#EXTINF:30,IMZA-H2 — en güçlü 30 sn (ölçü başı 0.02 sn)
+IMZA-H2_kesit30_16LUFS.mp3
+#EXTINF:60,IMZA-H2 — tam hâl
+IMZA-H2_tam_16LUFS.mp3
+#EXTINF:6,IMZA-H3 — en güçlü 6 sn (ölçü başı 9.716 sn)
+IMZA-H3_kesit6_16LUFS.mp3
+#EXTINF:30,IMZA-H3 — en güçlü 30 sn (ölçü başı 9.716 sn)
+IMZA-H3_kesit30_16LUFS.mp3
+#EXTINF:60,IMZA-H3 — tam hâl
+IMZA-H3_tam_16LUFS.mp3
+#EXTINF:6,IMZA-H4-2 — en güçlü 6 sn (ölçü başı 47.265 sn)
+IMZA-H4-2_kesit6_16LUFS.mp3
+#EXTINF:30,IMZA-H4-2 — en güçlü 30 sn (ölçü başı 27.219 sn)
+IMZA-H4-2_kesit30_16LUFS.mp3
+#EXTINF:60,IMZA-H4-2 — tam hâl
+IMZA-H4-2_tam_16LUFS.mp3
+#EXTINF:6,IMZA-H5 — en güçlü 6 sn (ölçü başı 19.234 sn)
+IMZA-H5_kesit6_16LUFS.mp3
+#EXTINF:30,IMZA-H5 — en güçlü 30 sn (ölçü başı 19.234 sn)
+IMZA-H5_kesit30_16LUFS.mp3
+#EXTINF:60,IMZA-H5 — tam hâl
+IMZA-H5_tam_16LUFS.mp3
+#EXTINF:6,IMZA-H6 — en güçlü 6 sn (ölçü başı 23.135 sn)
+IMZA-H6_kesit6_16LUFS.mp3
+#EXTINF:30,IMZA-H6 — en güçlü 30 sn (ölçü başı 23.135 sn)
+IMZA-H6_kesit30_16LUFS.mp3
+#EXTINF:60,IMZA-H6 — tam hâl
+IMZA-H6_tam_16LUFS.mp3

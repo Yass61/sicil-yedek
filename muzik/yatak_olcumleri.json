@@ -1,0 +1,119 @@
+{
+ "YATAK-A": [
+  {
+   "parca": "YATAK-A",
+   "sure_sn": 120.02,
+   "on_kontrol": {
+    "gecti": false,
+    "sebep": [
+     "boş giriş: ilk 1 sn -61.0 dBFS (ortanca -13.7)",
+     "boşluk: 0.00-2.00 sn (2.00 sn)"
+    ],
+    "ilk_sn_dbfs": -61.0,
+    "ortanca_dbfs": -13.7,
+    "en_uzun_bosluk_sn": 2.0
+   },
+   "dongu_bas_son_db": [
+    -47.4,
+    -45.9
+   ]
+  },
+  {
+   "parca": "YATAK-A-2",
+   "sure_sn": 120.02,
+   "on_kontrol": {
+    "gecti": false,
+    "sebep": [
+     "boş giriş: ilk 1 sn -46.0 dBFS (ortanca -13.8)"
+    ],
+    "ilk_sn_dbfs": -46.0,
+    "ortanca_dbfs": -13.8,
+    "en_uzun_bosluk_sn": 1.05
+   },
+   "dongu_bas_son_db": [
+    -35.6,
+    -91.5
+   ]
+  }
+ ],
+ "YATAK-B": [
+  {
+   "parca": "YATAK-B",
+   "sure_sn": 120.02,
+   "on_kontrol": {
+    "gecti": false,
+    "sebep": [
+     "boşluk: 100.05-101.85 sn (1.80 sn)"
+    ],
+    "ilk_sn_dbfs": -27.4,
+    "ortanca_dbfs": -26.9,
+    "en_uzun_bosluk_sn": 1.8
+   },
+   "dongu_bas_son_db": [
+    -27.5,
+    -61.0
+   ]
+  },
+  {
+   "parca": "YATAK-B-2",
+   "sure_sn": 120.02,
+   "on_kontrol": {
+    "gecti": false,
+    "sebep": [
+     "boşluk: 113.20-117.00 sn (3.80 sn)"
+    ],
+    "ilk_sn_dbfs": -26.9,
+    "ortanca_dbfs": -24.8,
+    "en_uzun_bosluk_sn": 3.8
+   },
+   "dongu_bas_son_db": [
+    -27.2,
+    -108.9
+   ]
+  }
+ ],
+ "YATAK-C": [
+  {
+   "parca": "YATAK-C",
+   "sure_sn": 120.02,
+   "on_kontrol": {
+    "gecti": true,
+    "sebep": [],
+    "ilk_sn_dbfs": -25.2,
+    "ortanca_dbfs": -16.8,
+    "en_uzun_bosluk_sn": 0.45
+   },
+   "dongu_bas_son_db": [
+    -19.4,
+    -43.7
+   ],
+   "dinleme": [
+    "YATAK-C_16LUFS.mp3",
+    -16.0,
+    -4.4
+   ]
+  }
+ ],
+ "YATAK-UYKU": [
+  {
+   "parca": "YATAK-UYKU",
+   "sure_sn": 120.02,
+   "on_kontrol": {
+    "gecti": true,
+    "sebep": [],
+    "ilk_sn_dbfs": -24.4,
+    "ortanca_dbfs": -18.7,
+    "en_uzun_bosluk_sn": 0.65
+   },
+   "dongu_bas_son_db": [
+    -20.8,
+    -57.4
+   ],
+   "dinleme": [
+    "YATAK-UYKU_16LUFS.mp3",
+    -16.0,
+    -2.6
+   ]
+  }
+ ]
+}
