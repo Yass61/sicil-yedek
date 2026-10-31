@@ -1,0 +1,79 @@
+{
+ "paket": "yagmur_saray",
+ "ad": "Yağmurda saray avlusu (İstanbul, 19. yy)",
+ "sesler": {
+  "ortam_1": {
+   "dosya": "ortam_1.mp3",
+   "istem": "Steady rain falling on the stone paving of an enclosed palace courtyard at dawn: water running from wide wooden eaves, puddles, soft echo from arcades, no voices, 19th-century Istanbul, natural acoustic sounds only",
+   "sure_sn": 30.04,
+   "istenen_sn": 30.0,
+   "dongu": true,
+   "kaynak": "ElevenLabs Sound Effects",
+   "model": "eleven_text_to_sound_v2",
+   "lisans": "ElevenLabs Sound Effects (eleven_text_to_sound_v2) · ücretli plan · ticari kullanım, atıf gerekmez",
+   "kredi": 330,
+   "kredi_kaynagi": "yanıt başlığı (character-cost)",
+   "tarih": "2026-10-23"
+  },
+  "ortam_2": {
+   "dosya": "ortam_2.mp3",
+   "istem": "Heavy rain on tiled roofs and a courtyard: gutters overflowing onto stone, a plane tree's leaves dripping, a gust of wind now and then, 19th-century Istanbul, natural acoustic sounds only",
+   "sure_sn": 30.04,
+   "istenen_sn": 30.0,
+   "dongu": true,
+   "kaynak": "ElevenLabs Sound Effects",
+   "model": "eleven_text_to_sound_v2",
+   "lisans": "ElevenLabs Sound Effects (eleven_text_to_sound_v2) · ücretli plan · ticari kullanım, atıf gerekmez",
+   "kredi": 330,
+   "kredi_kaynagi": "yanıt başlığı (character-cost)",
+   "tarih": "2026-10-23"
+  },
+  "ortam_3": {
+   "dosya": "ortam_3.mp3",
+   "istem": "Rain easing over an empty stone courtyard: slow drips from eaves into puddles, distant sea faint, calm, 19th-century Istanbul, natural acoustic sounds only",
+   "sure_sn": 30.04,
+   "istenen_sn": 30.0,
+   "dongu": true,
+   "kaynak": "ElevenLabs Sound Effects",
+   "model": "eleven_text_to_sound_v2",
+   "lisans": "ElevenLabs Sound Effects (eleven_text_to_sound_v2) · ücretli plan · ticari kullanım, atıf gerekmez",
+   "kredi": 330,
+   "kredi_kaynagi": "yanıt başlığı (character-cost)",
+   "tarih": "2026-10-23"
+  },
+  "top_uzak": {
+   "dosya": "top_uzak.mp3",
+   "istem": "A single cannon shot far away across water, a low boom rolling and echoing off hills, 19th-century Istanbul, natural acoustic sounds only",
+   "sure_sn": 4.05,
+   "istenen_sn": 4.0,
+   "dongu": false,
+   "kaynak": "ElevenLabs Sound Effects",
+   "model": "eleven_text_to_sound_v2",
+   "lisans": "ElevenLabs Sound Effects (eleven_text_to_sound_v2) · ücretli plan · ticari kullanım, atıf gerekmez",
+   "kredi": 44,
+   "kredi_kaynagi": "yanıt başlığı (character-cost)",
+   "tarih": "2026-10-23"
+  },
+  "damla_sacak": {
+   "dosya": "damla_sacak.mp3",
+   "istem": "Large raindrops falling one by one from a wooden eave into a puddle, close, 19th-century Istanbul, natural acoustic sounds only",
+   "sure_sn": 3.03,
+   "istenen_sn": 3.0,
+   "dongu": false,
+   "kaynak": "ElevenLabs Sound Effects",
+   "model": "eleven_text_to_sound_v2",
+   "lisans": "ElevenLabs Sound Effects (eleven_text_to_sound_v2) · ücretli plan · ticari kullanım, atıf gerekmez",
+   "kredi": 33,
+   "kredi_kaynagi": "yanıt başlığı (character-cost)",
+   "tarih": "2026-10-23"
+  },
+  "ortam_dongu": {
+   "dosya": "ortam_dongu.mp3",
+   "sure_sn": 84.02,
+   "turetildi": "ortam_1-3, 3 sn acrossfade, loudnorm -30 LUFS (yatak)",
+   "lisans": "ElevenLabs Sound Effects (eleven_text_to_sound_v2) · ücretli plan · ticari kullanım, atıf gerekmez",
+   "kredi": 0
+  }
+ },
+ "kredi_toplam": 1067
+}
