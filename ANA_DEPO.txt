@@ -1,3 +1,3 @@
-ana depo commit: 77857929d876ee0c717b51646897737fc0d04c13
+ana depo commit: 60935e940e5b9d008d12894c65439cc1e692524e
 veritabani dokumu (sikistirilmamis) sha256: 1e86febe11ab70910756bb2de8726d5e5470b323b57464edfff8210af50b3745
 senaryolar bu depoda YOK: ana depoda surumlenir (KAPI1_SENARYO/, bolumler/*/senaryo/).
